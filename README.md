@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @automatedmara, one of IV Development's head administrator.
+- 👋 Hello, I'm Antarctica Mara! One of IV Development's head administrator.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python & c# language.
 - 💞️ I’m looking to collaborate on discord developer team.
