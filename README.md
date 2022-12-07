@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Antarctica Mara! One of IV Development's head administrator.
+- 👋 Hello, I'm [Antarctica Mara](github.com/antarcticamara) One of IV Development's head administrator. Recently, I found that my main account [Antarctica Mara](github.com/antarcticamara) has compromised by hackers. Feel free to contact me antarcticamara@gmail.com for inquiries.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python & c# language.
 - 💞️ I’m looking to collaborate on discord developer team.
